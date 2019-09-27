@@ -6,4 +6,4 @@ def say_hello(name)
   
 end
 
-say_hello("Kent Beck")
+do say_hello("Kent Beck")
