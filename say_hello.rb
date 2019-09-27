@@ -2,7 +2,7 @@
 
 def say_hello(name = "Ruby Programmer")
   
-  print ""
+  print "{}"
   
 end
 
